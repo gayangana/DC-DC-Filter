@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DC-DC_Filter.PrjPcb]
+   Generated File[DC-DC-Filter PCB.TXT]
+   Generated File[DC-DC-Filter PCB.LDP]
+   Generated File[DC-DC-Filter PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:23:40 PM On 12/22/2021
